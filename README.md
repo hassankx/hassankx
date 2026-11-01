@@ -59,7 +59,7 @@ I trained as an **astrophysicist** and became an **infrastructure engineer**. Fo
 
 <img src="assets/khaled-hassan-data-centre.jpg" align="right" width="250" alt="Khaled Hassan in a data centre">
 
-I came to computing through science. My degrees are in astronomy and astrophysics, and I spent the 1990s in research and teaching. Astrophysics is a data problem as much as a physics problem: the observations are noisy, the models are heavy, and an answer is only as good as the computation behind it. That is where I learned to treat a computer as a scientific instrument, something to be calibrated, understood and trusted before you believe anything it tells you.
+I came to computing through science. My degrees are in astronomy and astrophysics, and I started my career in research and teaching. Astrophysics is a data problem as much as a physics problem: the observations are noisy, the models are heavy, and an answer is only as good as the computation behind it. That is where I learned to treat a computer as a scientific instrument, something to be calibrated, understood and trusted before you believe anything it tells you.
 
 I still work that way. I start from measurements, form a hypothesis, test it, and only then change something.
 
@@ -153,10 +153,6 @@ I am a Canadian citizen based in Mississauga, Ontario.
 | --- | --- |
 | BSc in Astronomy (1989) and postgraduate degree in Astrophysics (1991), Cairo University; further astronomy and astrophysics studies at the University of Toronto | A scientist's discipline: measure, hypothesize, test |
 | Research and teaching | Scientific computing, data analysis, and the ability to explain complex ideas simply |
-
---- | --- |
-| BSc in Astronomy (1989) and postgraduate degree in Astrophysics (1991), Cairo University | A scientist's discipline: measure, hypothesize, test |
-| Research and teaching through the 1990s | Scientific computing, data analysis, and the ability to explain complex ideas simply |
 
 ---
 
