@@ -1,10 +1,49 @@
-# Khaled Hassan
+<p align="center">
+  <img src="https://github.com/hassankx.png?size=240" width="180" height="180" alt="Khaled Hassan" style="border-radius:50%">
+</p>
 
-### Astrophysicist by training · Infrastructure engineer by trade · Founder of ResiliaAI™
+<h1 align="center">Khaled Hassan</h1>
+
+<p align="center">
+  <b>Astrophysicist by training · Infrastructure engineer by trade · Founder of ResiliaAI™</b><br>
+  Lead, Enterprise Research Computing &amp; AI-Enabled Infrastructure at KAUST<br>
+  Founder and Principal Consultant, Alhassan Consultancy Canada Inc.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaled-hassan-elmahroqi/"><img src="https://img.shields.io/badge/LinkedIn-Khaled%20Hassan-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Mississauga%2C%20Canada-1F3A5F" alt="Based in Mississauga, Canada">
+  <img src="https://img.shields.io/badge/Experience-25%2B%20years-1F3A5F" alt="25+ years">
+  <img src="https://img.shields.io/badge/ResiliaAI-patent%20pending-2E7D32" alt="ResiliaAI patent pending">
+</p>
+
+---
+
+## About me
 
 I started my career studying how stars and galaxies behave. I have spent the 25+ years since building the computing systems that let other scientists do the same: supercomputers, GPU clusters and research platforms that must not fail.
 
-Today I lead enterprise research computing and AI-enabled infrastructure at **King Abdullah University of Science and Technology (KAUST)**, and I am the founder of **Alhassan Consultancy Canada Inc.** in Mississauga, Ontario, where I designed **ResiliaAI™**, a patent-pending platform for self-healing infrastructure that stays under human control.
+I came to computing through science. My degrees are in astronomy and astrophysics, and I spent the 1990s in research and teaching. That training still drives how I work. I start from measurements, form a hypothesis, test it, and only then change something. I treat a production system the way an astronomer treats a telescope: an instrument that must be calibrated, understood and trusted before you can believe anything it tells you.
+
+I moved from science into engineering at the end of the 1990s, and my career has taken me through some of the most demanding environments an engineer can work in. I supported trading systems on Wall Street and helped rebuild them after September 11. I kept mission-critical systems running for one of the world's largest energy companies. For nearly two decades I have helped build and run the research computing behind King Abdullah University of Science and Technology (KAUST), from before the university opened its doors to today's hybrid platform of HPC, GPU clusters, Kubernetes and three public clouds.
+
+Each of those places taught me the same lesson from a different angle. Systems fail. What matters is how quickly you notice, how safely you recover, and whether you learn enough to stop it happening again. I have spent my career getting better at all three, and I have tried to pass that on: I have managed and mentored engineers for more than five years across KAUST and Saudi Aramco, and I measure a good team by how calm it is during an outage.
+
+In 2024 I began consulting independently, and in 2026 I founded **Alhassan Consultancy Canada Inc.** in Mississauga, Ontario. There I designed **ResiliaAI™**, a patent-pending platform for self-healing infrastructure that stays under human control. It brings together everything I have learned: AI that can reason about a failing system, wrapped in the policies, approvals and evidence that real operations teams and regulators need before they will let anything act on its own.
+
+I am a Canadian citizen based in Mississauga, Ontario.
+
+## Career at a glance
+
+| Years | Role | Organization |
+| --- | --- | --- |
+| 2024 – present | Founder and Principal Consultant | Alhassan Consultancy Canada Inc., Mississauga |
+| 2018 – present | Lead, Enterprise Research Computing & AI-Enabled Infrastructure | King Abdullah University of Science and Technology (KAUST) |
+| 2008 – 2018 | Senior System Engineer | KAUST |
+| 2001 – 2008 | UNIX/Linux & High Availability Consultant | Saudi Aramco, Dhahran |
+| 1999 – 2001 | Senior Financial Services Engineer | Merrill Lynch, New York |
+| 1991 – 1999 | Research and teaching, astronomy and astrophysics | |
+| 1989 – 1991 | BSc Astronomy; Postgraduate Degree, Astrophysics | Cairo University |
 
 ---
 
