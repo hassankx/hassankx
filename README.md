@@ -1,156 +1,352 @@
 <p align="center">
-  <img src="assets/khaled-hassan.jpg" width="200" alt="Khaled Hassan">
+  <img src="assets/banner.svg" width="100%" alt="Khaled Hassan: from the stars to the server room">
 </p>
 
-<h1 align="center">Khaled Hassan</h1>
+<table>
+<tr>
+<td width="32%" align="center" valign="top">
+  <img src="assets/khaled-hassan.jpg" width="210" alt="Khaled Hassan"><br>
+  <b>Khaled Hassan</b><br>
+  <sub>Mississauga, Ontario, Canada</sub><br><br>
+  <a href="https://www.linkedin.com/in/khaled-hassan-elmahroqi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</td>
+<td valign="top">
 
-<p align="center">
-  <b>Astrophysicist by training · Infrastructure engineer by trade · Founder of ResiliaAI™</b><br>
-  Lead, Enterprise Research Computing &amp; AI-Enabled Infrastructure at KAUST<br>
-  Founder and Principal Consultant, Alhassan Consultancy Canada Inc.
-</p>
+### Hello, I'm Khaled 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khaled-hassan-elmahroqi/"><img src="https://img.shields.io/badge/LinkedIn-Khaled%20Hassan-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Mississauga%2C%20Canada-1F3A5F" alt="Based in Mississauga, Canada">
-  <img src="https://img.shields.io/badge/Experience-25%2B%20years-1F3A5F" alt="25+ years">
-  <img src="https://img.shields.io/badge/ResiliaAI-patent%20pending-2E7D32" alt="ResiliaAI patent pending">
-</p>
+I trained as an **astrophysicist** and became an **infrastructure engineer**. For more than 25 years I have built and run the computing that science, finance and energy depend on, and I am now building a company to make that computing heal itself, safely.
+
+| | |
+| --- | --- |
+| 🏛️ **Today** | Lead, Enterprise Research Computing & AI-Enabled Infrastructure at **KAUST** |
+| 🚀 **Founder** | **Alhassan Consultancy Canada Inc.** and creator of **ResiliaAI™** (patent pending) |
+| 🔭 **Trained in** | Astronomy (BSc) and Astrophysics (postgraduate), Cairo University |
+| 🧠 **Known for** | HPC and GPU clusters, Kubernetes, enterprise Linux, hybrid cloud, cyber-resilience |
+| 🤝 **Open to** | Infrastructure leadership, HPC and AI platform roles, and ResiliaAI partnerships |
+
+</td>
+</tr>
+</table>
 
 ---
 
-## About me
+## 📊 At a glance
 
-<img src="assets/khaled-hassan-data-centre.jpg" align="right" width="260" alt="Khaled Hassan in a data centre">
+<table>
+<tr>
+<td align="center" width="25%"><h2>25+</h2><sub>years building critical infrastructure</sub></td>
+<td align="center" width="25%"><h2>3,000+</h2><sub>concurrent users served at KAUST</sub></td>
+<td align="center" width="25%"><h2>200+</h2><sub>servers in the platforms I ran</sub></td>
+<td align="center" width="25%"><h2>4</h2><sub>organizations: Merrill Lynch, Saudi Aramco, KAUST, Alhassan Consultancy</sub></td>
+</tr>
+<tr>
+<td align="center"><h2>35%</h2><sub>fleet efficiency gained through automation</sub></td>
+<td align="center"><h2>25%</h2><sub>faster delivery with Git-based CI/CD</sub></td>
+<td align="center"><h2>25%</h2><sub>fewer defects from automated testing</sub></td>
+<td align="center"><h2>15%</h2><sub>team productivity gained through mentoring</sub></td>
+</tr>
+<tr>
+<td align="center"><h2>3</h2><sub>public clouds run alongside bare metal</sub></td>
+<td align="center"><h2>5</h2><sub>years running SLURM GPU and HPC clusters</sub></td>
+<td align="center"><h2>10</h2><sub>professional certifications</sub></td>
+<td align="center"><h2>1</h2><sub>Canadian patent application pending</sub></td>
+</tr>
+</table>
 
-I started my career studying how stars and galaxies behave. I have spent the 25+ years since building the computing systems that let other scientists do the same: supercomputers, GPU clusters and research platforms that must not fail.
+---
 
-I came to computing through science. My degrees are in astronomy and astrophysics, and I spent the 1990s in research and teaching. That training still drives how I work. I start from measurements, form a hypothesis, test it, and only then change something. I treat a production system the way an astronomer treats a telescope: an instrument that must be calibrated, understood and trusted before you can believe anything it tells you.
+## 🌌 About me
 
-I moved from science into engineering at the end of the 1990s, and my career has taken me through some of the most demanding environments an engineer can work in. I supported trading systems on Wall Street and helped rebuild them after September 11. I kept mission-critical systems running for one of the world's largest energy companies. For nearly two decades I have helped build and run the research computing behind King Abdullah University of Science and Technology (KAUST), from before the university opened its doors to today's hybrid platform of HPC, GPU clusters, Kubernetes and three public clouds.
+<img src="assets/khaled-hassan-data-centre.jpg" align="right" width="250" alt="Khaled Hassan in a data centre">
 
-Each of those places taught me the same lesson from a different angle. Systems fail. What matters is how quickly you notice, how safely you recover, and whether you learn enough to stop it happening again. I have spent my career getting better at all three, and I have tried to pass that on: I have managed and mentored engineers for more than five years across KAUST and Saudi Aramco, and I measure a good team by how calm it is during an outage.
+I came to computing through science. My degrees are in astronomy and astrophysics, and I spent the 1990s in research and teaching. Astrophysics is a data problem as much as a physics problem: the observations are noisy, the models are heavy, and an answer is only as good as the computation behind it. That is where I learned to treat a computer as a scientific instrument, something to be calibrated, understood and trusted before you believe anything it tells you.
 
-In 2024 I began consulting independently, and in 2026 I founded **Alhassan Consultancy Canada Inc.** in Mississauga, Ontario. There I designed **ResiliaAI™**, a patent-pending platform for self-healing infrastructure that stays under human control. It brings together everything I have learned: AI that can reason about a failing system, wrapped in the policies, approvals and evidence that real operations teams and regulators need before they will let anything act on its own.
+I still work that way. I start from measurements, form a hypothesis, test it, and only then change something.
+
+At the end of the 1990s I moved from science into engineering, and my career has taken me through some of the most demanding environments an engineer can work in. I supported trading systems on Wall Street and helped rebuild them after September 11. I kept mission-critical systems running for one of the world's largest energy companies. For nearly two decades I have helped build and run the research computing behind King Abdullah University of Science and Technology, from before the university opened its doors to today's hybrid platform of HPC, GPU clusters, Kubernetes and three public clouds.
+
+Each of those places taught me the same lesson from a different angle. **Systems fail. What matters is how quickly you notice, how safely you recover, and whether you learn enough to stop it happening again.** I have spent my career getting better at all three and passing that on. I have managed and mentored engineers for more than five years across KAUST and Saudi Aramco, and I measure a good team by how calm it is during an outage.
+
+In 2024 I began consulting independently, and in 2026 I founded **Alhassan Consultancy Canada Inc.** There I designed **ResiliaAI™**, which brings everything I have learned together: AI that can reason about a failing system, inside the policies, approvals and evidence that real operations teams and regulators need before they will let anything act on its own.
 
 I am a Canadian citizen based in Mississauga, Ontario.
 
-## Career at a glance
+<br clear="right">
 
-| Years | Role | Organization |
+---
+
+## 🛰️ My journey
+
+```mermaid
+timeline
+    title From the stars to the server room
+    1989 – 1991 : BSc Astronomy : Postgraduate degree, Astrophysics (Cairo University)
+    1991 – 1999 : Research and teaching in astronomy and astrophysics
+    1999 – 2001 : Merrill Lynch, New York : Rebuilt trading systems after September 11
+    2001 – 2008 : Saudi Aramco : High availability for mission-critical SAP
+    2008 – 2018 : KAUST Senior System Engineer : 200+ servers, 3,000+ concurrent users
+    2018 – today : KAUST Lead, Research Computing & AI Infrastructure : HPC, GPU, Kubernetes, hybrid cloud
+    2024 – today : Founder, Alhassan Consultancy : ResiliaAI™ patent pending (2026)
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'pie1':'#1F3A5F','pie2':'#4FC3F7','pie3':'#FFB300','pie4':'#7E57C2','pieSectionTextColor':'#ffffff'}}}%%
+pie showData
+    title Years in each chapter
+    "KAUST (2008 – today)" : 18
+    "Astrophysics research & teaching" : 8
+    "Saudi Aramco" : 6
+    "Merrill Lynch" : 2
+```
+
+</td>
+<td width="50%" valign="top">
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'xyChart':{'plotColorPalette':'#1F3A5F'}}}}%%
+xychart-beta
+    title "Measured results at KAUST (%)"
+    x-axis ["Efficiency", "Delivery", "Defects ↓", "Productivity"]
+    y-axis "Improvement (%)" 0 --> 40
+    bar [35, 25, 25, 15]
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements in detail
+
+### 🏛️ KAUST: Lead, Enterprise Research Computing & AI-Enabled Infrastructure (2018 – today)
+
+| Challenge | What I did | Result |
 | --- | --- | --- |
-| 2024 – present | Founder and Principal Consultant | Alhassan Consultancy Canada Inc., Mississauga |
-| 2018 – present | Lead, Enterprise Research Computing & AI-Enabled Infrastructure | King Abdullah University of Science and Technology (KAUST) |
-| 2008 – 2018 | Senior System Engineer | KAUST |
-| 2001 – 2008 | UNIX/Linux & High Availability Consultant | Saudi Aramco, Dhahran |
-| 1999 – 2001 | Senior Financial Services Engineer | Merrill Lynch, New York |
-| 1991 – 1999 | Research and teaching, astronomy and astrophysics | |
-| 1989 – 1991 | BSc Astronomy; Postgraduate Degree, Astrophysics | Cairo University |
+| Researchers needed every kind of compute, from bare metal to the cloud | Designed and run one hybrid platform: bare-metal HPC and SLURM GPU clusters, Kubernetes, VMware, OpenStack, and Azure, AWS and GCP | One platform used by research and engineering teams across the university |
+| Hand-built servers drift and break | Defined the platform as code with Terraform and Ansible in Git, pushing consistent configuration across the fleet | **35%** higher overall system efficiency |
+| Releases were slow and risky | Introduced Git-based CI/CD and automated testing | **25%** faster delivery, **25%** fewer defects |
+| Fleet-wide changes needed to roll out safely | Built an AI-assisted deployment scheduler and Python tooling for provisioning, monitoring and routine fixes | Safe, repeatable rollouts across the fleet |
+| Teams could not see problems coming | Built observability with Prometheus and Grafana; designed connectivity with BGP, OSPF, VPN and segmentation | Earlier detection and a network built to fail safely |
+| A growing team needed to grow with the platform | Mentored engineers and set up compute, identity and access for new teams as they arrived | **15%** productivity gain |
+
+### 🏗️ KAUST: Senior System Engineer (2008 – 2018)
+
+| Challenge | What I did | Result |
+| --- | --- | --- |
+| A new university needed its computing built from the ground up | Designed scalable compute, storage and high-availability architecture with SAN, NAS, Pure Storage, NFS/CIFS, backup and disaster recovery | Platforms serving **200+ servers** and **3,000+ concurrent users** |
+| Data centres had to move without disrupting research | Led data centre and platform migrations from design through cut-over and support | Migrations delivered under change control |
+| Hundreds of Linux systems needed to stay current and secure | Managed the full RHEL lifecycle under change control | A patched, consistent fleet |
+
+### ⛽ Saudi Aramco: UNIX/Linux & High Availability Consultant (2001 – 2008)
+
+| Challenge | What I did | Result |
+| --- | --- | --- |
+| SAP systems behind bulk plants and offshore vessels could not go down | Ran high availability, SAN storage, backup, disaster recovery and monitoring | Mission-critical operations kept running |
+| Capacity had to keep pace with the business | Performed performance and capacity analysis to guide decisions | Data-driven stability and optimization |
+| A team of engineers needed leadership | Managed and developed engineers | Reliable operations at national scale |
+
+### 🗽 Merrill Lynch: Senior Financial Services Engineer (1999 – 2001)
+
+| Challenge | What I did | Result |
+| --- | --- | --- |
+| Trading and forecasting ran on Sun Enterprise systems | Supported the UNIX infrastructure behind them | Stable trading platforms |
+| September 11 displaced entire trading teams | Helped rebuild trading environments so teams could resume work | Teams back to work when it mattered most |
+
+### 🔭 Astronomy and astrophysics (1989 – 1999)
+
+| What I did | What it gave me |
+| --- | --- |
+| BSc in Astronomy (1989) and postgraduate degree in Astrophysics (1991), Cairo University | A scientist's discipline: measure, hypothesize, test |
+| Research and teaching through the 1990s | Scientific computing, data analysis, and the ability to explain complex ideas simply |
 
 ---
 
-## From the stars to the server room
+## 🚀 Featured projects
 
-**Astronomy and astrophysics (1989 – 1999).** I earned a Bachelor of Science in Astronomy (1989) and a postgraduate degree in Astrophysics (1991) at Cairo University, then spent most of the 1990s in research and teaching. Astrophysics is a data problem as much as a physics problem. The observations are noisy, the models are heavy, and the answer is only as good as the computation behind it. That is where I learned to treat computers as scientific instruments: they have to be calibrated, understood and trusted, or the results mean nothing.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Wall Street, September 2001 (1999 – 2001).** At Merrill Lynch in New York I supported the Sun Enterprise systems behind trading and forecasting. After the attacks of September 11, I helped rebuild trading environments so displaced teams could get back to work. Nothing has shaped how I think about resilience more. Disaster recovery is not a document; it is what you can actually stand back up, under pressure, for people who are depending on you.
+### 🛡️ ResiliaAI™
+**Founder and inventor · 2024 – today**
 
-**Energy at national scale (2001 – 2008).** At Saudi Aramco I was a UNIX/Linux and high-availability consultant for mission-critical SAP environments that served bulk plants and offshore vessels. I worked on clustering, SAN storage, backup, disaster recovery and capacity analysis, and I managed engineers. When the systems that move a country's energy go down, the cost is counted in more than money.
+A policy-governed AI platform for self-healing infrastructure. It detects problems in servers, networks and GPU systems and applies only approved, auditable fixes, with people in control of high-risk actions.
 
-**Research computing at KAUST (2008 – present).** I joined KAUST as a Senior System Engineer when the university was being built, and helped stand up its research and enterprise platforms: 200+ servers serving 3,000+ concurrent users, high-availability storage, data centre migrations and the full RHEL lifecycle. Since 2018 I have led enterprise research computing and AI-enabled infrastructure. I designed and run a hybrid platform that spans bare-metal HPC and SLURM-scheduled GPU clusters, Kubernetes, VMware, OpenStack and Azure, AWS and GCP, all defined as code with Terraform and Ansible.
+`Patent pending` `AIOps` `Policy engine` `Audit evidence`
 
-Along the way:
+</td>
+<td width="50%" valign="top">
 
-- Automation across the fleet raised overall system efficiency by **35%**.
-- Git-based CI/CD and testing made delivery **25% faster** with **25% fewer defects**.
-- An AI-assisted deployment scheduler I built rolls changes out safely across the fleet.
-- Mentoring the engineers on my teams lifted productivity by **15%**.
+### 🏛️ KAUST hybrid research platform
+**Lead architect and operator · 2018 – today**
 
-**Founder, Alhassan Consultancy Canada Inc. (2024 – present).** I have consulted independently under the Alhassan name since 2024 and incorporated the company in Canada in 2026. We help organizations that cannot afford downtime build secure, resilient, self-healing IT. That work includes resilience assessments, modernization of Linux, cloud, HPC and GPU platforms, automation, and managed operations, including consulting on an airport infrastructure project in Dubai.
+One platform spanning bare-metal HPC, SLURM GPU clusters, Kubernetes, VMware, OpenStack, and Azure, AWS and GCP, defined as code and used across the university.
+
+`HPC` `GPU` `Kubernetes` `Terraform` `Ansible` · **35% efficiency gain**
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🤖 AI-assisted deployment scheduler
+**Designer and builder · KAUST**
+
+A scheduler that plans and rolls out changes safely across the fleet, backed by Python tooling for provisioning, monitoring and routine fixes.
+
+`Python` `Automation` `Safe rollouts`
+
+</td>
+<td valign="top">
+
+### 🔁 CI/CD and testing for infrastructure
+**Lead · KAUST**
+
+Brought Git-based CI/CD and automated testing to infrastructure changes, so every change is reviewed, tested and repeatable.
+
+`Git` `CI/CD` `Testing` · **25% faster, 25% fewer defects**
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🏗️ Data centre and platform migrations
+**Lead · KAUST, 2008 – 2018**
+
+Moved research and enterprise platforms between data centres, from architecture through cut-over and support, on high-availability SAN, NAS and Pure Storage.
+
+`Migration` `High availability` `Disaster recovery`
+
+</td>
+<td valign="top">
+
+### ✈️ Airport infrastructure, Dubai
+**Consultant · Alhassan Consultancy**
+
+Infrastructure consulting for an airport project in Dubai, bringing high-availability and resilience practice to an environment that cannot afford downtime.
+
+`Consulting` `Resilience` `Critical infrastructure`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🍁 Canadian AI compute and resilience centre
+**Architect · proposed**
+
+Architecture for a Canadian-hosted AI compute centre: GPU cluster, high-speed network fabric, parallel storage, immutable backup, and power and liquid cooling.
+
+`Sovereign AI` `GPU cluster` `Data centre design`
+
+</td>
+<td valign="top">
+
+### 🛩️ ResiliaAI for aerospace
+**Lead applicant · proposed R&D**
+
+A proposed collaborative project applying ResiliaAI to aerospace simulation, digital-twin and maintenance-diagnostic infrastructure, to cut the energy per unit of useful work without giving up availability or control.
+
+`Aerospace` `Digital twins` `Energy efficiency`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ResiliaAI™: self-healing infrastructure that answers to people
+## 🛡️ ResiliaAI™: self-healing infrastructure that answers to people
 
-After three decades of being woken up at 3 a.m., I wanted to know why the same failures keep coming back, and why the tools meant to fix them so often can't be trusted to act alone. ResiliaAI is my answer.
+After three decades of being woken up at 3 a.m., I wanted to know why the same failures keep coming back, and why the tools meant to fix them so often can't be trusted to act alone. **ResiliaAI** is my answer: a policy-governed, active-AI control and evidence platform that watches servers, networks, storage and GPU systems, works out what is wrong, and fixes it only through approved actions that leave a complete audit trail.
 
-It is a **policy-governed, active-AI control and evidence platform**. It watches servers, networks, storage and GPU systems, works out what is wrong, and fixes it, but only through actions that have been approved in advance and that leave a complete audit trail. High-risk actions always go to a person.
-
-### The design principle
-
-Most AI-operations tools let a model decide *and* act. ResiliaAI separates the two:
-
-> **The AI advises. Approved code acts. Every action leaves evidence.**
-
-The language model is an advisor. It reasons over telemetry, policies, vendor guidance and past incidents to propose a fix. The fix itself is carried out only by version-controlled, allow-listed runbooks, within permissions, change windows and operating limits, and with an emergency stop.
-
-### How it works
+> ### The AI advises. Approved code acts. Every action leaves evidence.
 
 ```mermaid
 flowchart LR
-    T["Telemetry<br/>servers, network, GPU,<br/>storage, cooling, security"] --> R["Reasoning<br/>AI proposes bounded<br/>actions and alternatives"]
-    R --> C{"Control<br/>policy, permissions,<br/>allow-list, change window"}
-    C -- "low risk, approved" --> E["Execution<br/>repair, tune, patch,<br/>isolate or roll back"]
-    C -- "high risk" --> H["Human approval"]
+    T["📡 Telemetry<br/>servers, network, GPU,<br/>storage, cooling, security"] --> R["🧠 Reasoning<br/>AI proposes bounded<br/>actions and alternatives"]
+    R --> C{"🛂 Control<br/>policy, permissions,<br/>allow-list, change window"}
+    C -- "low risk, approved" --> E["⚙️ Execution<br/>repair, tune, patch,<br/>isolate or roll back"]
+    C -- "high risk" --> H["👤 Human approval"]
     H --> E
-    E --> V["Verification<br/>health, security,<br/>output and energy checks"]
+    E --> V["✅ Verification<br/>health, security,<br/>output and energy checks"]
     V -- "evidence record" --> T
 ```
 
 | Layer | What it does | What it records |
 | --- | --- | --- |
-| **Telemetry** | Collects approved signals from workloads, services, CPUs, GPUs, storage, cooling, patching and security tools | Source, asset, timestamp, integrity |
-| **Reasoning** | Uses approved models, policies and prior evidence to propose bounded actions | Sources consulted, alternatives considered, policy result |
-| **Control** | Enforces permissions, the runbook allow-list, operating limits, change windows and the emergency stop | Approval, code version, parameters |
-| **Execution** | Schedules, tunes, power-caps, repairs, patches, isolates or rolls back through approved integrations | Commands, outputs, state changes |
-| **Verification** | Tests service health, security, accepted output and energy use before an action counts as done | Before-and-after result, acceptance decision, rollback evidence |
+| 📡 **Telemetry** | Collects approved signals from workloads, services, CPUs, GPUs, storage, cooling, patching and security tools | Source, asset, timestamp, integrity |
+| 🧠 **Reasoning** | Uses approved models, policies and prior evidence to propose bounded actions | Sources consulted, alternatives considered, policy result |
+| 🛂 **Control** | Enforces permissions, the runbook allow-list, operating limits, change windows and an emergency stop | Approval, code version, parameters |
+| ⚙️ **Execution** | Schedules, tunes, power-caps, repairs, patches, isolates or rolls back through approved integrations | Commands, outputs, state changes |
+| ✅ **Verification** | Tests service health, security, accepted output and energy use before an action counts as done | Before-and-after result, acceptance decision, rollback evidence |
 
-Every action produces a before-and-after record. An auditor, an engineer or a regulator can see what happened, why, who approved it, and how to undo it.
+### Milestones and roadmap
 
-### Where it is going
-
-- **Patent pending:** Canadian patent application filed in September 2026, *"Systems and Methods for Policy-Governed AI-Based Infrastructure Monitoring and Automated Remediation."*
-- **Trademark:** RESILIAAI, Canadian trademark application filed in 2026.
-- **Aerospace R&D:** lead applicant in a proposed collaborative R&D project applying ResiliaAI to aerospace simulation, digital-twin and maintenance-diagnostic infrastructure, aiming to cut the energy used per unit of useful computing work without giving up availability, security or administrator control.
-- **Sovereign AI compute:** architecture for a proposed Canadian-hosted AI compute and resilience centre: a GPU cluster, a high-speed network fabric, parallel storage, immutable backup, and power and liquid cooling.
+| Status | Milestone |
+| --- | --- |
+| ✅ Done | Canadian patent application filed (September 2026): *"Systems and Methods for Policy-Governed AI-Based Infrastructure Monitoring and Automated Remediation"* |
+| ✅ Done | RESILIAAI trademark application filed with CIPO (September 2026) |
+| ✅ Done | Alhassan Consultancy Canada Inc. incorporated (September 2026) |
+| 🔄 In progress | Lead applicant in a proposed collaborative R&D project applying ResiliaAI to aerospace simulation, digital-twin and maintenance-diagnostic infrastructure |
+| 🔄 In progress | Architecture for a proposed Canadian-hosted AI compute and resilience centre: GPU cluster, high-speed fabric, parallel storage, immutable backup, power and liquid cooling |
 
 ---
 
-## What I work with
+## 🧰 Toolbox
 
-| Area | Tools and practice |
+| Area | Tools |
 | --- | --- |
-| **HPC and GPU** | SLURM, GPU clusters for ML training and inference, capacity planning, MLflow, remote visualization |
-| **Hybrid cloud** | Kubernetes, Docker/OCI, VMware, OpenStack, Azure, AWS, GCP, bare metal |
-| **Automation** | Terraform, Ansible, Puppet, Python, Bash, Git, CI/CD, Kickstart, cloud-init |
-| **Linux internals** | RHEL, Rocky, SLES, Ubuntu, Debian; kernel and performance tuning, systemd, SELinux, CIS and STIG hardening |
-| **Networking** | VLANs and segmentation, BGP, OSPF, IPsec VPN, firewalls, DNS, DHCP |
-| **Storage** | NetApp, Pure Storage, SAN/NAS, NFS, high availability, backup and disaster recovery |
-| **Security and operations** | PKI and certificates, AD/LDAP/SSSD, Prometheus, Grafana, incident response, ITIL change control |
+| **HPC & GPU** | ![SLURM](https://img.shields.io/badge/SLURM-1F3A5F?style=flat-square) ![NVIDIA](https://img.shields.io/badge/NVIDIA_GPU-76B900?style=flat-square&logo=nvidia&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
+| **Containers & cloud** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **Automation** | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Operating systems** | ![Red Hat](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Rocky](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white) ![SUSE](https://img.shields.io/badge/SLES-0C322C?style=flat-square&logo=suse&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Solaris](https://img.shields.io/badge/Solaris-1F3A5F?style=flat-square) |
+| **Networking** | ![BGP](https://img.shields.io/badge/BGP-1F3A5F?style=flat-square) ![OSPF](https://img.shields.io/badge/OSPF-1F3A5F?style=flat-square) ![VPN](https://img.shields.io/badge/IPsec_VPN-1F3A5F?style=flat-square) ![VLAN](https://img.shields.io/badge/VLANs_&_segmentation-1F3A5F?style=flat-square) |
+| **Storage** | ![NetApp](https://img.shields.io/badge/NetApp-0067C5?style=flat-square&logo=netapp&logoColor=white) ![Pure Storage](https://img.shields.io/badge/Pure_Storage-FA4616?style=flat-square) ![NFS](https://img.shields.io/badge/SAN_/_NAS_/_NFS-1F3A5F?style=flat-square) |
+| **Observability & security** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![SELinux](https://img.shields.io/badge/SELinux_·_CIS_·_STIG-1F3A5F?style=flat-square) ![PKI](https://img.shields.io/badge/PKI_·_AD_·_LDAP_·_SSSD-1F3A5F?style=flat-square) |
 
-## Portfolio
+---
 
-| Project | What it does |
+## 🗂️ Open-source portfolio
+
+| Project | What it does | Why it matters |
+| --- | --- | --- |
+| [**linux-infrastructure-toolkit**](https://github.com/hassankx/linux-infrastructure-toolkit) | Read-only health check for a Linux host | Know what needs attention in under a second |
+| [**gpu-platform-readiness**](https://github.com/hassankx/gpu-platform-readiness) | NVIDIA driver, GPU health, CUDA, PyTorch and SLURM node checks | Catches a GPU that dropped off the bus before jobs fail |
+| [**linux-incident-triage**](https://github.com/hassankx/linux-incident-triage) | Timestamped first-response evidence collection | Preserves the evidence before anyone reboots |
+
+These are small tools in the same spirit as ResiliaAI: observe safely first, collect evidence, change nothing without a reason.
+
+---
+
+## 🧭 How I work
+
+| Principle | In practice |
 | --- | --- |
-| [`linux-infrastructure-toolkit`](https://github.com/hassankx/linux-infrastructure-toolkit) | Read-only health check for fast assessment of a Linux host |
-| [`gpu-platform-readiness`](https://github.com/hassankx/gpu-platform-readiness) | NVIDIA driver, GPU health, CUDA, PyTorch and SLURM node readiness checks |
-| [`linux-incident-triage`](https://github.com/hassankx/linux-incident-triage) | Safe, timestamped evidence collection for first-response troubleshooting |
+| **Measure first** | Data before opinions, the way an astronomer trusts the instrument only after calibrating it |
+| **Stabilize, then fix** | Restore the service, find the root cause, then automate the prevention |
+| **Build it once** | The right abstraction beats fighting the same fire twice |
+| **Humans stay in control** | Automation should be fast, bounded and auditable |
+| **Teach the team** | A calm team in an outage is the best measure of a leader |
 
-These are small public tools in the same spirit as ResiliaAI: observe safely first, collect evidence, change nothing without a reason.
+---
 
-## How I work
+## 🎓 Education and certifications
 
-Stabilize the service first. Find the root cause. Then automate the prevention, so nobody has to fight the same fire twice. Whether the subject is a galaxy or a GPU cluster, I trust measurements over assumptions.
+**Education:** Postgraduate Degree in Astrophysics (1991) · BSc in Astronomy (1989), Cairo University
 
-## Credentials
+![RHCE](https://img.shields.io/badge/RHCE-EE0000?style=flat-square&logo=redhat&logoColor=white) ![RHCSA](https://img.shields.io/badge/RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Security+](https://img.shields.io/badge/CompTIA_Security+-C8202F?style=flat-square) ![CySA+](https://img.shields.io/badge/CompTIA_CySA+-C8202F?style=flat-square) ![Linux+](https://img.shields.io/badge/CompTIA_Linux+-C8202F?style=flat-square) ![ITIL](https://img.shields.io/badge/ITIL_Foundation-5B2C83?style=flat-square) ![ISO 20000](https://img.shields.io/badge/ISO/IEC_20000-1F3A5F?style=flat-square) ![Cloud](https://img.shields.io/badge/Cloud_Computing_Foundation-1F3A5F?style=flat-square) ![SCSA](https://img.shields.io/badge/Sun_Certified_UNIX_Admin-F8981D?style=flat-square) ![Sun Cluster](https://img.shields.io/badge/Sun_Cluster_Installer-F8981D?style=flat-square)
 
-**Education:** Postgraduate Degree in Astrophysics (1991) and BSc in Astronomy (1989), Cairo University
+---
 
-**Certifications:** RHCE · RHCSA · CompTIA Security+ · CompTIA CySA+ · CompTIA Linux+ · ITIL Foundation · ISO/IEC 20000 · Cloud Computing Foundation · Sun Certified UNIX System Administrator · Sun Cluster Systems Installer
+<p align="center">
+  <b>Let's talk about AI infrastructure, research computing and trustworthy automation.</b><br><br>
+  <a href="https://www.linkedin.com/in/khaled-hassan-elmahroqi/"><img src="https://img.shields.io/badge/LinkedIn-Khaled_Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/khaled-hassan-elmahroqi/
-- Based in Mississauga, Ontario, Canada
-
-> The public projects here are sample-safe tools written for this portfolio. They contain no employer or client systems, configurations, credentials or confidential information. ResiliaAI source code and patent materials are not published.
+<p align="center"><sub>The public projects here are sample-safe tools written for this portfolio. They contain no employer or client systems, configurations, credentials or confidential information. ResiliaAI source code and patent materials are not published.</sub></p>
