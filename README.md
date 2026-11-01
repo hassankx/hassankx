@@ -89,10 +89,6 @@ timeline
     2024 – today : Founder, Alhassan Consultancy : ResiliaAI™ patent pending (2026)
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'pie1':'#1F3A5F','pie2':'#4FC3F7','pie3':'#FFB300','pie4':'#7E57C2','pieSectionTextColor':'#ffffff'}}}%%
 pie showData
@@ -103,21 +99,14 @@ pie showData
     "Merrill Lynch" : 2
 ```
 
-</td>
-<td width="50%" valign="top">
-
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'xyChart':{'plotColorPalette':'#1F3A5F'}}}}%%
 xychart-beta
-    title "Measured results at KAUST (%)"
-    x-axis ["Efficiency", "Delivery", "Defects ↓", "Productivity"]
+    title "Measured results at KAUST (% improvement)"
+    x-axis ["Fleet efficiency", "Delivery speed", "Fewer defects", "Team productivity"]
     y-axis "Improvement (%)" 0 --> 40
     bar [35, 25, 25, 15]
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
