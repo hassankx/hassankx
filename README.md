@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hassankx.png?size=240" width="180" height="180" alt="Khaled Hassan" style="border-radius:50%">
+  <img src="assets/khaled-hassan.jpg" width="200" alt="Khaled Hassan">
 </p>
 
 <h1 align="center">Khaled Hassan</h1>
@@ -20,6 +20,8 @@
 ---
 
 ## About me
+
+<img src="assets/khaled-hassan-data-centre.jpg" align="right" width="260" alt="Khaled Hassan in a data centre">
 
 I started my career studying how stars and galaxies behave. I have spent the 25+ years since building the computing systems that let other scientists do the same: supercomputers, GPU clusters and research platforms that must not fail.
 
