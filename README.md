@@ -14,7 +14,7 @@
 
 ### Hello, I'm Khaled 👋
 
-I trained as an **astrophysicist** and became an **infrastructure engineer**. For more than 25 years I have built and run the computing that science, finance and energy depend on, and I am now building a company to make that computing heal itself, safely.
+I trained as an **astrophysicist** and became an **infrastructure engineer**. For more than 30 years I have built and run the computing that manufacturing, science, finance and energy depend on, and I am now building a company to make that computing heal itself, safely.
 
 | | |
 | --- | --- |
@@ -34,10 +34,10 @@ I trained as an **astrophysicist** and became an **infrastructure engineer**. Fo
 
 <table>
 <tr>
-<td align="center" width="25%"><h2>25+</h2><sub>years building critical infrastructure</sub></td>
+<td align="center" width="25%"><h2>30+</h2><sub>years building critical infrastructure</sub></td>
 <td align="center" width="25%"><h2>3,000+</h2><sub>concurrent users served at KAUST</sub></td>
 <td align="center" width="25%"><h2>200+</h2><sub>servers in the platforms I ran</sub></td>
-<td align="center" width="25%"><h2>4</h2><sub>organizations: Merrill Lynch, Saudi Aramco, KAUST, Alhassan Consultancy</sub></td>
+<td align="center" width="25%"><h2>9</h2><sub>employers, including Ford, Merrill Lynch, Saudi Aramco and KAUST</sub></td>
 </tr>
 <tr>
 <td align="center"><h2>35%</h2><sub>fleet efficiency gained through automation</sub></td>
@@ -63,7 +63,7 @@ I came to computing through science. My degrees are in astronomy and astrophysic
 
 I still work that way. I start from measurements, form a hypothesis, test it, and only then change something.
 
-At the end of the 1990s I moved from science into engineering, and my career has taken me through some of the most demanding environments an engineer can work in. I supported trading systems on Wall Street and helped rebuild them after September 11. I kept mission-critical systems running for one of the world's largest energy companies. For nearly two decades I have helped build and run the research computing behind King Abdullah University of Science and Technology, from before the university opened its doors to today's hybrid platform of HPC, GPU clusters, Kubernetes and three public clouds.
+In 1994 I moved from science into engineering as a UNIX system administrator at Ford Motor Company, running the servers behind its worldwide CAD/CAM/CAE engineering data, while also working in university computing at Western University and the University of Windsor. Since then my career has taken me through some of the most demanding environments an engineer can work in. I ran Sun Enterprise 10000 systems as a consultant, supported trading systems on Wall Street and helped rebuild them after September 11. I kept mission-critical systems running for one of the world's largest energy companies. For nearly two decades I have helped build and run the research computing behind King Abdullah University of Science and Technology, from before the university opened its doors to today's hybrid platform of HPC, GPU clusters, Kubernetes and three public clouds.
 
 Each of those places taught me the same lesson from a different angle. **Systems fail. What matters is how quickly you notice, how safely you recover, and whether you learn enough to stop it happening again.** I have spent my career getting better at all three and passing that on. I have managed and mentored engineers for more than five years across KAUST and Saudi Aramco, and I measure a good team by how calm it is during an outage.
 
@@ -77,36 +77,11 @@ I am a Canadian citizen based in Mississauga, Ontario.
 
 ## 🛰️ My journey
 
-```mermaid
-timeline
-    title From the stars to the server room
-    1989 – 1991 : BSc Astronomy : Postgraduate degree, Astrophysics (Cairo University)
-    1991 – 1999 : Research and teaching in astronomy and astrophysics
-    1999 – 2001 : Merrill Lynch, New York : Rebuilt trading systems after September 11
-    2001 – 2008 : Saudi Aramco : High availability for mission-critical SAP
-    2008 – 2018 : KAUST Senior System Engineer : 200+ servers, 3,000+ concurrent users
-    2018 – today : KAUST Lead, Research Computing & AI Infrastructure : HPC, GPU, Kubernetes, hybrid cloud
-    2024 – today : Founder, Alhassan Consultancy : ResiliaAI™ patent pending (2026)
-```
+<p align="center"><img src="assets/chart-career-timeline.png" width="100%" alt="Career timeline from 1989 to today"></p>
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'pie1':'#1F3A5F','pie2':'#4FC3F7','pie3':'#FFB300','pie4':'#7E57C2','pieSectionTextColor':'#ffffff'}}}%%
-pie showData
-    title Years in each chapter
-    "KAUST (2008 – today)" : 18
-    "Astrophysics research & teaching" : 8
-    "Saudi Aramco" : 6
-    "Merrill Lynch" : 2
-```
+<p align="center"><img src="assets/chart-years-by-sector.png" width="100%" alt="Years in each sector"></p>
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'xyChart':{'plotColorPalette':'#1F3A5F'}}}}%%
-xychart-beta
-    title "Measured results at KAUST (% improvement)"
-    x-axis ["Fleet efficiency", "Delivery speed", "Fewer defects", "Team productivity"]
-    y-axis "Improvement (%)" 0 --> 40
-    bar [35, 25, 25, 15]
-```
+<p align="center"><img src="assets/chart-impact.png" width="100%" alt="Measured results at KAUST: 35% efficiency, 25% faster delivery, 25% fewer defects, 15% productivity"></p>
 
 ---
 
@@ -146,10 +121,40 @@ xychart-beta
 | Trading and forecasting ran on Sun Enterprise systems | Supported the UNIX infrastructure behind them | Stable trading platforms |
 | September 11 displaced entire trading teams | Helped rebuild trading environments so teams could resume work | Teams back to work when it mattered most |
 
-### 🔭 Astronomy and astrophysics (1989 – 1999)
+### 💼 Bluestone Consulting Group and Timebridge GmbH: System Support Engineer (1999 – 2000)
+
+| Challenge | What I did | Result |
+| --- | --- | --- |
+| A Sun Enterprise 10000 platform needed to be planned and run | Administered Sun systems including Sun Cluster 2.2 on E10000 domains, and planned, implemented and operated the E10000 server infrastructure | A clustered, high-end UNIX platform in production |
+| The E10000 had to talk to an IBM mainframe's tape systems | Integrated an ESCON channel solution so the E10000 could emulate multiple tape drives to the mainframe | Mainframe and UNIX working together |
+| Operators needed clear procedures | Wrote the E10000 and SSP run book, including shutdown and dynamic reconfiguration steps | Repeatable, documented operations |
+| Backups had to be reliable | Designed backup strategies and ran VERITAS NetBackup and HP OmniBack; automated daily, weekly and monthly tasks with shell, Perl and C | Dependable backups and less manual work |
+| Customers needed support and training (Timebridge, part-time, 2000) | Supported Sun hardware and software, designed and installed customer systems, and trained customers and field engineers | Faster resolution and stronger customer teams |
+
+### 🚗 Ford Motor Company: UNIX System Administrator (1994 – 1999)
+
+| Challenge | What I did | Result |
+| --- | --- | --- |
+| Engineers worldwide depended on CAD/CAM/CAE product data | Planned, implemented and operated worldwide server infrastructure for fast transfer and secure storage of that data | Engineering data available and protected |
+| Global Metaphase and Team Data Management servers had to stay healthy | Administered Sun, HP and other UNIX servers; installed, configured, upgraded, monitored and tuned them; created and migrated TDM servers and databases | A stable product-data platform |
+| Server checks and operations were manual | Consolidated the Metaphase server-check scripts and wrote new tooling in C shell, Bourne shell and SQL/PL | Operations improved and automated |
+| Data had to be recoverable | Ran backup and restore for the core and workgroup servers | Reliable recovery |
+
+### 🎓 University computing: Western University and University of Windsor (1996 – 1998)
+
+| Role | What I did |
+| --- | --- |
+| Programmer / Webmaster, Western University (1996 – 1997) | Programming and web services for a university faculty |
+| UNIX System Administrator, Faculty of Engineering, University of Windsor (1997 – 1998) | Ran the UNIX systems for the Faculty of Engineering |
+
+### 🔭 Astronomy and astrophysics (1989 – 1994)
 
 | What I did | What it gave me |
 | --- | --- |
+| BSc in Astronomy (1989) and postgraduate degree in Astrophysics (1991), Cairo University; further astronomy and astrophysics studies at the University of Toronto | A scientist's discipline: measure, hypothesize, test |
+| Research and teaching | Scientific computing, data analysis, and the ability to explain complex ideas simply |
+
+--- | --- |
 | BSc in Astronomy (1989) and postgraduate degree in Astrophysics (1991), Cairo University | A scientist's discipline: measure, hypothesize, test |
 | Research and teaching through the 1990s | Scientific computing, data analysis, and the ability to explain complex ideas simply |
 
@@ -256,16 +261,7 @@ After three decades of being woken up at 3 a.m., I wanted to know why the same f
 
 > ### The AI advises. Approved code acts. Every action leaves evidence.
 
-```mermaid
-flowchart LR
-    T["📡 Telemetry<br/>servers, network, GPU,<br/>storage, cooling, security"] --> R["🧠 Reasoning<br/>AI proposes bounded<br/>actions and alternatives"]
-    R --> C{"🛂 Control<br/>policy, permissions,<br/>allow-list, change window"}
-    C -- "low risk, approved" --> E["⚙️ Execution<br/>repair, tune, patch,<br/>isolate or roll back"]
-    C -- "high risk" --> H["👤 Human approval"]
-    H --> E
-    E --> V["✅ Verification<br/>health, security,<br/>output and energy checks"]
-    V -- "evidence record" --> T
-```
+<p align="center"><img src="assets/chart-resiliaai-flow.png" width="100%" alt="How ResiliaAI works: telemetry, reasoning, control, human approval for high-risk actions, execution, verification"></p>
 
 | Layer | What it does | What it records |
 | --- | --- | --- |
