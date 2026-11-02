@@ -308,6 +308,7 @@ After three decades of being woken up at 3 a.m., I wanted to know why the same f
 | [**linux-infrastructure-toolkit**](https://github.com/hassankx/linux-infrastructure-toolkit) | Read-only health check for a Linux host | Know what needs attention in under a second |
 | [**gpu-platform-readiness**](https://github.com/hassankx/gpu-platform-readiness) | NVIDIA driver, GPU health, CUDA, PyTorch and SLURM node checks | Catches a GPU that dropped off the bus before jobs fail |
 | [**linux-incident-triage**](https://github.com/hassankx/linux-incident-triage) | Timestamped first-response evidence collection | Preserves the evidence before anyone reboots |
+| [**gpu-cluster-orchestration**](https://github.com/hassankx/gpu-cluster-orchestration) | Animated explainer of how GPU clusters are orchestrated | Control plane, NVLink and InfiniBand, lifecycle and fault recovery in one picture |
 
 These are small tools in the same spirit as ResiliaAI: observe safely first, collect evidence, change nothing without a reason.
 
