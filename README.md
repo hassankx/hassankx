@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Khaled Hassan: from the stars to the server room">
+  <img src="assets/launch-banner.gif" width="100%" alt="Khaled Hassan: from the stars to the server room. Animated launch: liftoff, stage separation and orbit over a data-centre planet">
 </p>
 
 <table>
