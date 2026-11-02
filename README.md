@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="32%" align="center" valign="top">
-  <img src="assets/khaled-hassan.jpg" width="210" alt="Khaled Hassan"><br>
+  <img src="assets/khaled-hassan-portrait-bw.jpg" width="210" alt="Khaled Hassan"><br>
   <b>Khaled Hassan</b><br>
   <sub>Mississauga, Ontario, Canada</sub><br><br>
   <a href="https://www.linkedin.com/in/khaled-hassan-elmahroqi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
