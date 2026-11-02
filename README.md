@@ -37,7 +37,7 @@ I trained as an **astrophysicist** and became an **infrastructure engineer**. Fo
 <td align="center" width="25%"><h2>30+</h2><sub>years building critical infrastructure</sub></td>
 <td align="center" width="25%"><h2>3,000+</h2><sub>concurrent users served at KAUST</sub></td>
 <td align="center" width="25%"><h2>200+</h2><sub>servers in the platforms I ran</sub></td>
-<td align="center" width="25%"><h2>9</h2><sub>employers, including Ford, Merrill Lynch, Saudi Aramco and KAUST</sub></td>
+<td align="center" width="25%"><h2>10</h2><sub>organizations, including Ford, Merrill Lynch, Saudi Aramco and KAUST</sub></td>
 </tr>
 <tr>
 <td align="center"><h2>35%</h2><sub>fleet efficiency gained through automation</sub></td>
@@ -63,7 +63,7 @@ I came to computing through science. My degrees are in astronomy and astrophysic
 
 I still work that way. I start from measurements, form a hypothesis, test it, and only then change something.
 
-In 1994 I moved from science into engineering as a UNIX system administrator at Ford Motor Company, running the servers behind its worldwide CAD/CAM/CAE engineering data, while also working in university computing at Western University and the University of Windsor. Since then my career has taken me through some of the most demanding environments an engineer can work in. I ran Sun Enterprise 10000 systems as a consultant, supported trading systems on Wall Street and helped rebuild them after September 11. I kept mission-critical systems running for one of the world's largest energy companies. For nearly two decades I have helped build and run the research computing behind King Abdullah University of Science and Technology, from before the university opened its doors to today's hybrid platform of HPC, GPU clusters, Kubernetes and three public clouds.
+In 1994 I moved from science into engineering, first in university computing at Western University and the University of Windsor, then as a UNIX system administrator at Ford Motor Company, running the servers behind its CAD/CAM/CAE engineering data. Since then my career has taken me through some of the most demanding environments an engineer can work in. I supported Sun systems for Chase Manhattan Bank, Motorola and Dow Jones, ran Sun Enterprise 10000 trading systems on Wall Street and helped rebuild them after September 11. I kept mission-critical systems running for one of the world's largest energy companies. For nearly two decades I have helped build and run the research computing behind King Abdullah University of Science and Technology, from before the university opened its doors to today's hybrid platform of HPC, GPU clusters, Kubernetes and three public clouds.
 
 Each of those places taught me the same lesson from a different angle. **Systems fail. What matters is how quickly you notice, how safely you recover, and whether you learn enough to stop it happening again.** I have spent my career getting better at all three and passing that on. I have managed and mentored engineers for more than five years across KAUST and Saudi Aramco, and I measure a good team by how calm it is during an outage.
 
@@ -77,7 +77,7 @@ I am a Canadian citizen based in Mississauga, Ontario.
 
 ## 🛰️ My journey
 
-<p align="center"><img src="assets/chart-career-timeline.png" width="100%" alt="Career timeline from 1989 to today"></p>
+<p align="center"><img src="assets/chart-career-timeline.png" width="100%" alt="Career timeline from 1991 to today"></p>
 
 <p align="center"><img src="assets/chart-years-by-sector.png" width="100%" alt="Years in each sector"></p>
 
@@ -118,41 +118,49 @@ I am a Canadian citizen based in Mississauga, Ontario.
 
 | Challenge | What I did | Result |
 | --- | --- | --- |
-| Trading and forecasting ran on Sun Enterprise systems | Supported the UNIX infrastructure behind them | Stable trading platforms |
-| September 11 displaced entire trading teams | Helped rebuild trading environments so teams could resume work | Teams back to work when it mattered most |
+| Trading and forecasting ran on Sun Enterprise 10000 systems | Planned, implemented and operated the E10000 production servers, with Sun HA clusters across data centre sites and Sun Cluster 2.x for Oracle | Highly available trading platforms |
+| September 11 displaced entire trading teams | Rebuilt servers and executed the data recovery plan, restoring operations and data safely | Teams back to work when it mattered most |
+| Disaster recovery had to be real, not a document | Planned and ran the Sun Enterprise disaster-recovery infrastructure; designed backups with VERITAS NetBackup, Legato and HP OmniBack | Dependable recovery |
+| Operations were manual | Automated daily, weekly and monthly tasks with C, Korn and Bourne shell, Perl and C; wrote the E10000 and SSP run book | Less manual work, repeatable operations |
+| The business needed to plan infrastructure spend | Built infrastructure cost forecasts and what-if scenarios, and defined cost drivers and KPIs for monthly scorecards | Clearer technology investment decisions |
 
-### 💼 Bluestone Consulting Group and Timebridge GmbH: System Support Engineer (1999 – 2000)
-
-| Challenge | What I did | Result |
-| --- | --- | --- |
-| A Sun Enterprise 10000 platform needed to be planned and run | Administered Sun systems including Sun Cluster 2.2 on E10000 domains, and planned, implemented and operated the E10000 server infrastructure | A clustered, high-end UNIX platform in production |
-| The E10000 had to talk to an IBM mainframe's tape systems | Integrated an ESCON channel solution so the E10000 could emulate multiple tape drives to the mainframe | Mainframe and UNIX working together |
-| Operators needed clear procedures | Wrote the E10000 and SSP run book, including shutdown and dynamic reconfiguration steps | Repeatable, documented operations |
-| Backups had to be reliable | Designed backup strategies and ran VERITAS NetBackup and HP OmniBack; automated daily, weekly and monthly tasks with shell, Perl and C | Dependable backups and less manual work |
-| Customers needed support and training (Timebridge, part-time, 2000) | Supported Sun hardware and software, designed and installed customer systems, and trained customers and field engineers | Faster resolution and stronger customer teams |
-
-### 🚗 Ford Motor Company: UNIX System Administrator (1994 – 1999)
+### 🛰️ Motorola and Dow Jones: System Support Engineer / Consultant (1999)
 
 | Challenge | What I did | Result |
 | --- | --- | --- |
-| Engineers worldwide depended on CAD/CAM/CAE product data | Planned, implemented and operated worldwide server infrastructure for fast transfer and secure storage of that data | Engineering data available and protected |
-| Global Metaphase and Team Data Management servers had to stay healthy | Administered Sun, HP and other UNIX servers; installed, configured, upgraded, monitored and tuned them; created and migrated TDM servers and databases | A stable product-data platform |
-| Server checks and operations were manual | Consolidated the Metaphase server-check scripts and wrote new tooling in C shell, Bourne shell and SQL/PL | Operations improved and automated |
-| Data had to be recoverable | Ran backup and restore for the core and workgroup servers | Reliable recovery |
+| Complex Sun hardware and software issues needed expert support | Isolated and resolved issues at complex level, focusing on integration and networking | Faster resolution |
+| New systems had to be designed and installed on site | Designed the architecture of installed systems and managed installation at customer sites | Systems delivered ready to run |
+| Customers and engineers needed to support themselves | Wrote procedures and documentation, and trained customers, field service engineers and support engineers | Stronger customer teams |
 
-### 🎓 University computing: Western University and University of Windsor (1996 – 1998)
+### 🏦 Bluestone Consulting: System Support Engineer, Sun Professional Services at Chase Manhattan Bank (1998 – 1999)
+
+| Challenge | What I did | Result |
+| --- | --- | --- |
+| Banking applications depended on Sun UNIX infrastructure | Installed, configured and maintained Sun SPARC servers and Solaris; monitored health and performance | Available, reliable banking systems |
+| Problems crossed hardware, OS, storage and network | Diagnosed and resolved issues with the bank's infrastructure teams, application owners and Sun support | Escalations closed |
+| Changes had to be safe | Patched and upgraded through approved change procedures; supported backup, recovery and service restoration | Controlled change and fast recovery |
+
+### 🚗 Ford Motor Company: UNIX System Administrator (1996 – 1998)
+
+| Challenge | What I did | Result |
+| --- | --- | --- |
+| Engineers depended on CAD/CAM/CAE product data | Administered the UNIX servers and workstations behind it, including Metaphase and Team Data Management | Engineering data available and protected |
+| Systems had to stay current and healthy | Installed operating systems, updates and patches; managed accounts, access, file systems and storage; monitored and tuned performance | A stable engineering platform |
+| Routine administration was manual | Automated it with shell scripts and coordinated maintenance with application teams and vendors | Operations improved and automated |
+
+### 🎓 University computing: Western University and University of Windsor (1994 – 1996)
 
 | Role | What I did |
 | --- | --- |
-| Programmer / Webmaster, Western University (1996 – 1997) | Programming and web services for a university faculty |
-| UNIX System Administrator, Faculty of Engineering, University of Windsor (1997 – 1998) | Ran the UNIX systems for the Faculty of Engineering |
+| Programmer / Webmaster, Faculties of Arts and Engineering, University of Western Ontario (1994 – 1995) | Built and maintained faculty websites, departmental programs and scripts |
+| UNIX System Administrator and Lab Manager, Faculty of Engineering, University of Windsor (1995 – 1996) | Ran the UNIX systems, engineering workstations and computer labs for teaching and research |
 
-### 🔭 Astronomy and astrophysics (1989 – 1994)
+### 🔭 Astronomy and astrophysics (Cairo University)
 
 | What I did | What it gave me |
 | --- | --- |
-| BSc in Astronomy (1989) and postgraduate degree in Astrophysics (1991), Cairo University; further astronomy and astrophysics studies at the University of Toronto | A scientist's discipline: measure, hypothesize, test |
-| Research and teaching | Scientific computing, data analysis, and the ability to explain complex ideas simply |
+| BSc in Astronomy (1991) and postgraduate degree in Astrophysics (1992), Cairo University; further astronomy and astrophysics studies at the University of Toronto | A scientist's discipline: measure, hypothesize, test |
+| Research and teaching alongside postgraduate studies | Scientific computing, data analysis, and the ability to explain complex ideas simply |
 
 ---
 
@@ -319,7 +327,7 @@ These are small tools in the same spirit as ResiliaAI: observe safely first, col
 
 ## 🎓 Education and certifications
 
-**Education:** Postgraduate Degree in Astrophysics (1991) · BSc in Astronomy (1989), Cairo University
+**Education:** Postgraduate Degree in Astrophysics (1992) · BSc in Astronomy (1991), Cairo University
 
 ![RHCE](https://img.shields.io/badge/RHCE-EE0000?style=flat-square&logo=redhat&logoColor=white) ![RHCSA](https://img.shields.io/badge/RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Security+](https://img.shields.io/badge/CompTIA_Security+-C8202F?style=flat-square) ![CySA+](https://img.shields.io/badge/CompTIA_CySA+-C8202F?style=flat-square) ![Linux+](https://img.shields.io/badge/CompTIA_Linux+-C8202F?style=flat-square) ![ITIL](https://img.shields.io/badge/ITIL_Foundation-5B2C83?style=flat-square) ![ISO 20000](https://img.shields.io/badge/ISO/IEC_20000-1F3A5F?style=flat-square) ![Cloud](https://img.shields.io/badge/Cloud_Computing_Foundation-1F3A5F?style=flat-square) ![SCSA](https://img.shields.io/badge/Sun_Certified_UNIX_Admin-F8981D?style=flat-square) ![Sun Cluster](https://img.shields.io/badge/Sun_Cluster_Installer-F8981D?style=flat-square)
 
