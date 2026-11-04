@@ -1,6 +1,4 @@
-[🌌 View the black-and-Milky-Way themed page](index.html) · [Open HTML source](https://github.com/hassankx/hassankx/blob/main/index.html)
-
-> GitHub README pages use GitHub's own theme. Download `index.html` and open it in a browser to see the full starfield design.
+<p align="center"><a href="https://hassankx.github.io/hassankx/"><b>🌌 Visit my website: full black sky, stars and the Milky Way</b></a></p>
 
 <p align="center">
   <img src="assets/launch-banner.gif" width="100%" alt="Khaled Hassan: from the stars to the server room. Animated launch: liftoff, stage separation and orbit over a data-centre planet">
