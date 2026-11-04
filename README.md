@@ -34,7 +34,7 @@ I trained as an **astrophysicist** and became an **infrastructure engineer**. Fo
 
 ---
 
-## 📊 At a glance
+<p align="center"><img src="assets/space/h-glance.png" width="100%" alt="At a glance"></p>
 
 <table>
 <tr>
@@ -59,7 +59,7 @@ I trained as an **astrophysicist** and became an **infrastructure engineer**. Fo
 
 ---
 
-## 🌌 About me
+<p align="center"><img src="assets/space/h-about.png" width="100%" alt="About me"></p>
 
 <img src="assets/khaled-hassan-data-centre.jpg" align="right" width="250" alt="Khaled Hassan in a data centre">
 
@@ -79,17 +79,17 @@ I am a Canadian citizen based in Mississauga, Ontario.
 
 ---
 
-## 🛰️ My journey
+<p align="center"><img src="assets/space/h-journey.png" width="100%" alt="My journey"></p>
 
-<p align="center"><img src="assets/chart-career-timeline.png" width="100%" alt="Career timeline from 1991 to today"></p>
+<p align="center"><img src="assets/chart-career-timeline-dark.png" width="100%" alt="Career timeline from 1991 to today"></p>
 
-<p align="center"><img src="assets/chart-years-by-sector.png" width="100%" alt="Years in each sector"></p>
+<p align="center"><img src="assets/chart-years-by-sector-dark.png" width="100%" alt="Years in each sector"></p>
 
-<p align="center"><img src="assets/chart-impact.png" width="100%" alt="Measured results at KAUST: 35% efficiency, 25% faster delivery, 25% fewer defects, 15% productivity"></p>
+<p align="center"><img src="assets/chart-impact-dark.png" width="100%" alt="Measured results at KAUST: 35% efficiency, 25% faster delivery, 25% fewer defects, 15% productivity"></p>
 
 ---
 
-## 🏆 Achievements in detail
+<p align="center"><img src="assets/space/h-achievements.png" width="100%" alt="Achievements in detail"></p>
 
 ### 🏛️ KAUST: Lead, Enterprise Research Computing & AI-Enabled Infrastructure (2018 – today)
 
@@ -168,7 +168,7 @@ I am a Canadian citizen based in Mississauga, Ontario.
 
 ---
 
-## 🚀 Featured projects
+<p align="center"><img src="assets/space/h-projects.png" width="100%" alt="Featured projects"></p>
 
 <table>
 <tr>
@@ -263,13 +263,13 @@ A proposed collaborative project applying ResiliaAI to aerospace simulation, dig
 
 ---
 
-## 🛡️ ResiliaAI™: self-healing infrastructure that answers to people
+<p align="center"><img src="assets/space/h-resiliaai.png" width="100%" alt="ResiliaAI™: self-healing infrastructure that answers to people"></p>
 
 After three decades of being woken up at 3 a.m., I wanted to know why the same failures keep coming back, and why the tools meant to fix them so often can't be trusted to act alone. **ResiliaAI** is my answer: a policy-governed, active-AI control and evidence platform that watches servers, networks, storage and GPU systems, works out what is wrong, and fixes it only through approved actions that leave a complete audit trail.
 
 > ### The AI advises. Approved code acts. Every action leaves evidence.
 
-<p align="center"><img src="assets/chart-resiliaai-flow.png" width="100%" alt="How ResiliaAI works: telemetry, reasoning, control, human approval for high-risk actions, execution, verification"></p>
+<p align="center"><img src="assets/chart-resiliaai-flow-dark.png" width="100%" alt="How ResiliaAI works: telemetry, reasoning, control, human approval for high-risk actions, execution, verification"></p>
 
 | Layer | What it does | What it records |
 | --- | --- | --- |
@@ -291,7 +291,7 @@ After three decades of being woken up at 3 a.m., I wanted to know why the same f
 
 ---
 
-## 🧰 Toolbox
+<p align="center"><img src="assets/space/h-toolbox.png" width="100%" alt="Toolbox"></p>
 
 | Area | Tools |
 | --- | --- |
@@ -305,7 +305,7 @@ After three decades of being woken up at 3 a.m., I wanted to know why the same f
 
 ---
 
-## 🗂️ Open-source portfolio
+<p align="center"><img src="assets/space/h-portfolio.png" width="100%" alt="Open-source portfolio"></p>
 
 | Project | What it does | Why it matters |
 | --- | --- | --- |
@@ -318,7 +318,7 @@ These are small tools in the same spirit as ResiliaAI: observe safely first, col
 
 ---
 
-## 🧭 How I work
+<p align="center"><img src="assets/space/h-how.png" width="100%" alt="How I work"></p>
 
 | Principle | In practice |
 | --- | --- |
@@ -330,7 +330,7 @@ These are small tools in the same spirit as ResiliaAI: observe safely first, col
 
 ---
 
-## 🎓 Education and certifications
+<p align="center"><img src="assets/space/h-education.png" width="100%" alt="Education and certifications"></p>
 
 **Education:** Postgraduate Degree in Astrophysics (1992) · BSc in Astronomy (1991), Cairo University
 
